@@ -1,2 +1,3 @@
 # Movie_Ratings_Analysis-
 Movie Ratings Analysis Python Project
+In this Python Data Analysis Project, I worked on a dataset that contains the different genres of movies, ratings received by the expert and audience, year of release, and budget in millions. While working on this project, I used the Pandas, Numpy, Seaborn, and Matplotlib python libraries. By using these libraries, I built different types of graphs and charts, which helps us make the analysis easier. In this project, I have analysed which movie genres are popular among the audience based on their ratings. We can suggest which genre would be best if the producer or director wanted to make a movie at the end of this project.
